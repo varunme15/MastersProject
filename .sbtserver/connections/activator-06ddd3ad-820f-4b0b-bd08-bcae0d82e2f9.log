@@ -1,0 +1,9 @@
+New log file opened at Mon Jun 22 10:14:42 PDT 2015 by 7981@varun-Inspiron-5521
+Sending msg to client activator-06ddd3ad-820f-4b0b-bd08-bcae0d82e2f9: DetachedLogEvent(LogMessage(debug,sbt server socket logs are in: /home/varun/devSpace/PlaySpark/.sbtserver/connections/master.log))
+Sending msg to client activator-06ddd3ad-820f-4b0b-bd08-bcae0d82e2f9: DetachedLogEvent(LogMessage(debug,sbt client logs are in: /home/varun/devSpace/PlaySpark/.sbtserver/connections/activator-06ddd3ad-820f-4b0b-bd08-bcae0d82e2f9.log))
+Sending msg to client activator-06ddd3ad-820f-4b0b-bd08-bcae0d82e2f9: DetachedLogEvent(LogMessage(debug,sbt general server logs are in: /home/varun/devSpace/PlaySpark/.sbtserver/master.log))
+Reading next message from client.
+Client activator-06ddd3ad-820f-4b0b-bd08-bcae0d82e2f9 EOF, shutting down.
+Stopping client.
+Dropping message (0,ReceivedResponse()) to dead client activator-06ddd3ad-820f-4b0b-bd08-bcae0d82e2f9
+Client activator-06ddd3ad-820f-4b0b-bd08-bcae0d82e2f9 thread exiting.
